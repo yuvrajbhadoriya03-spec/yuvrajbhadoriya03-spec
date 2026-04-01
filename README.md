@@ -30,9 +30,8 @@ I'm **Yuvraj Singh Bhadoriya**, a first-year B.Tech student in **Mechatronics En
 
 ## 🏫 Education
 
-**B.Tech Mechatronics Engineering** | Jabalpur Engineering College | 2024-2028
+**B.Tech Mechatronics Engineering** | Jabalpur Engineering College | 2025-2029
 - Focus: Robotics, Automation, Embedded Systems
-- Member: College Media Cell
 
 ---
 
