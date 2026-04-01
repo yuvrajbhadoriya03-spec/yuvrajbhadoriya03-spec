@@ -18,7 +18,6 @@ I'm **Yuvraj Singh Bhadoriya**, a first-year B.Tech student in **Mechatronics En
 
 ## 🎯 My Interests
 
-- **Electric Vehicles & E-bikes**: Fascinated by sustainable transportation technology
 - **Automation Projects**: Creating smart solutions using Arduino & ESP32
 - **IoT Solutions**: Developing connected devices
 - **Open Source**: Contributing to the maker community
