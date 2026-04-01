@@ -26,7 +26,7 @@ I'm **Yuvraj Singh Bhadoriya**, a first-year B.Tech student in **Mechatronics En
 ## 🔗 Let's Connect
 
 - **LinkedIn**: [yuvraj-bhadoriya](https://www.linkedin.com/in/yuvraj-bhadoriya-robotics)
-- **Email**: Feel free to reach out for collaborations!
+- **Email**: [yuvrajbhadoriya03@gmail.com](mailto:yuvrajbhadoriya03@gmail.com)
 
 ## 🏫 Education
 
